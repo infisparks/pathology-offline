@@ -1,0 +1,11 @@
+// .eslintrc.json
+{
+  "extends": "next/core-web-vitals", // Or your existing extends
+  "rules": {
+    // Add rules you want to disable or modify here
+    "react/no-unescaped-entities": "off", // Disables the apostrophe rule
+    "@next/next/no-img-element": "off",   // Disables the img element warning
+    "react-hooks/exhaustive-deps": "warn" // Turns exhaustive-deps into a warning instead of error (or use "off")
+    // "react-hooks/rules-of-hooks": "error" // KEEP THIS AS "error"! Do not disable.
+  }
+}

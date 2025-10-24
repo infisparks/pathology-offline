@@ -1,0 +1,9821 @@
+[
+	{
+	  "id": 2149,
+	  "created_at": "2025-03-14 23:17:27.772+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Hemoglobin",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-7d",
+				"rangeValue": "12-18"
+			  },
+			  {
+				"rangeKey": "8-54750d",
+				"rangeValue": "12-15"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-7d",
+				"rangeValue": "12-18"
+			  },
+			  {
+				"rangeKey": "8-54750d",
+				"rangeValue": "12-16"
+			  }
+			]
+		  },
+		  "unit": "gm/dL",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "PCV (HCT)",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "45-75"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "33-53"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "28-42"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "30-40"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "30-38"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "34-40"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "35-45"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "36-46"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "45-75"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "33-53"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "28-42"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "30-40"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "30-38"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "34-40"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "35-45"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "42-52"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "RBC Count",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "5.0-7.0"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "3.0-5.4"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "3.1-4.3"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "4.1-5.3"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "3.9-5.1"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "4.0-5.2"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "4.0-5.2"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "4.5-5.5"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "5.0-7.0"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "3.0-5.4"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "3.1-4.3"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "4.1-5.3"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "3.9-5.1"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "4.0-5.2"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "4.0-5.2"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "4.70-6.50"
+			  }
+			]
+		  },
+		  "unit": "x10^6/uL",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "MCV",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "100.0-120.0"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "92.0-116.0"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "87.0-103.0"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "68.0-84.0"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "72.0-84.0"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "75.0-87.0"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "77.0-95.0"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "78-94"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "100.0-120.0"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "92.0-116.0"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "87.0-103.0"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "68.0-84.0"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "72.0-84.0"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "75.0-87.0"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "77.0-95.0"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "78-94"
+			  }
+			]
+		  },
+		  "unit": "fL",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "MCH",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "31.0-37.0"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "30.0-36.0"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "27.0-33.0"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "24.0-30.0"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "25.0-29.0"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "24.0-30.0"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "25.0-33.0"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "26-31"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "31.0-37.0"
+			  },
+			  {
+				"rangeKey": "1-2m",
+				"rangeValue": "30.0-36.0"
+			  },
+			  {
+				"rangeKey": "2-3m",
+				"rangeValue": "27.0-33.0"
+			  },
+			  {
+				"rangeKey": "3-6m",
+				"rangeValue": "24.0-30.0"
+			  },
+			  {
+				"rangeKey": "6-12m",
+				"rangeValue": "25.0-29.0"
+			  },
+			  {
+				"rangeKey": "1-6y",
+				"rangeValue": "24.0-30.0"
+			  },
+			  {
+				"rangeKey": "6-12y",
+				"rangeValue": "25.0-33.0"
+			  },
+			  {
+				"rangeKey": "12-100y",
+				"rangeValue": "26-31"
+			  }
+			]
+		  },
+		  "unit": "pg",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "MCHC",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "31-36"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "31-36"
+			  }
+			]
+		  },
+		  "unit": "g/dL",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "RDW-CV",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "11.5-14.5"
+			  },
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "11.5-14.5"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "11.5-14.5"
+			  },
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "11.5-14.5"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Total Leukocyte Count",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "4000-20000"
+			  },
+			  {
+				"rangeKey": "31-1095d",
+				"rangeValue": "4000-15000"
+			  },
+			  {
+				"rangeKey": "1096-54750d",
+				"rangeValue": "4000-11000"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "4000-20000"
+			  },
+			  {
+				"rangeKey": "31-1095d",
+				"rangeValue": "4000-15000"
+			  },
+			  {
+				"rangeKey": "1096-54750d",
+				"rangeValue": "4000-11000"
+			  }
+			]
+		  },
+		  "unit": "/cumm",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Neutrophils",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-12y",
+				"rangeValue": "21-41"
+			  },
+			  {
+				"rangeKey": "13-100y",
+				"rangeValue": "40-75"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-12y",
+				"rangeValue": "21-41"
+			  },
+			  {
+				"rangeKey": "13-100y",
+				"rangeValue": "40-75"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Lymphocytes",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-12y",
+				"rangeValue": "20-71"
+			  },
+			  {
+				"rangeKey": "13-100y",
+				"rangeValue": "20-45"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-12y",
+				"rangeValue": "20-71"
+			  },
+			  {
+				"rangeKey": "13-100y",
+				"rangeValue": "20-45"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Eosinophils",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "0-6"
+			  },
+			  {
+				"rangeKey": "31-54750d",
+				"rangeValue": "0-6"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-30d",
+				"rangeValue": "0-6"
+			  },
+			  {
+				"rangeKey": "31-54750d",
+				"rangeValue": "0-6"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Monocytes",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-54750d",
+				"rangeValue": "01-10"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-54750d",
+				"rangeValue": "01-10"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Basophils",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-54750d",
+				"rangeValue": "0-1"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-54750d",
+				"rangeValue": "0-1"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Platelet Count",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": "150000-450000"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": "150000-450000"
+			  }
+			]
+		  },
+		  "unit": "/cumm",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "MPV",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-54750d",
+				"rangeValue": "6.5-9.8"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-54750d",
+				"rangeValue": "6.5-9.8"
+			  }
+			]
+		  },
+		  "unit": "fL",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": true,
+		  "name": "RBC MORPHOLOGY",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "suggestions": [
+			{
+			  "description": "Hypochromia, Microcytosis",
+			  "shortName": "HM"
+			},
+			{
+			  "description": "Hypochromia (+), Microcytosis (+)",
+			  "shortName": "hm1"
+			},
+			{
+			  "description": "Hypochromia",
+			  "shortName": "HP"
+			},
+			{
+			  "description": "Macrocytosis",
+			  "shortName": "Ma"
+			},
+			{
+			  "description": "Hypochromia, Macrocytosis",
+			  "shortName": "mhm"
+			},
+			{
+			  "description": "Hypochromia (+), Microcytosis (+), Anisocytosis (+)",
+			  "shortName": "mhn"
+			},
+			{
+			  "description": "Microcytosis",
+			  "shortName": "Mi"
+			},
+			{
+			  "description": "Normochromic, Microcytosis",
+			  "shortName": "nh"
+			},
+			{
+			  "description": "Normochromic, Normocytic",
+			  "shortName": "nn"
+			}
+		  ],
+		  "unit": "",
+		  "valueType": "text"
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": true,
+		  "name": "WBC MORPHOLOGY",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "suggestions": [
+			{
+			  "description": "Eosinophilia",
+			  "shortName": "Eo"
+			},
+			{
+			  "description": "Leucocytosis",
+			  "shortName": "Ic"
+			},
+			{
+			  "description": "Leucocytosis with Neutrophilia",
+			  "shortName": "LN"
+			},
+			{
+			  "description": "Leucopenia",
+			  "shortName": "lp"
+			},
+			{
+			  "description": "Lymphocytosis with Eosinophilia",
+			  "shortName": "lwe"
+			},
+			{
+			  "description": "Leucopaenia with Lymphocytosis",
+			  "shortName": "LWL"
+			},
+			{
+			  "description": "Lymphocytosis",
+			  "shortName": "LY"
+			},
+			{
+			  "description": "No abnormality detected",
+			  "shortName": "nad"
+			},
+			{
+			  "description": "Neutrophilia",
+			  "shortName": "ne"
+			},
+			{
+			  "description": "Normal",
+			  "shortName": "NR"
+			},
+			{
+			  "description": "Relative Lymphocytosis",
+			  "shortName": "nl"
+			}
+		  ],
+		  "unit": "",
+		  "valueType": "text"
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": true,
+		  "name": "PLATELETS ON SMEAR",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "suggestions": [
+			{
+			  "description": "Adequate on smear",
+			  "shortName": "AOS"
+			},
+			{
+			  "description": "Increased On Smear",
+			  "shortName": "ios"
+			},
+			{
+			  "description": "Few Macroplatelet seen",
+			  "shortName": "mps"
+			},
+			{
+			  "description": "Mildly Reduced On Smear",
+			  "shortName": "MRS"
+			},
+			{
+			  "description": "Platelet clumps seen",
+			  "shortName": "pcs"
+			},
+			{
+			  "description": "Reduced on smear",
+			  "shortName": "ros"
+			},
+			{
+			  "description": "Slightly Reduced On Smear",
+			  "shortName": "SROS"
+			}
+		  ],
+		  "unit": "",
+		  "valueType": "text"
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Remark:",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "unit": "",
+		  "valueType": "text",
+		  "suggestions": []
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "Complete Blood Count (CBC)",
+	  "sub_heading": [
+		{
+		  "title": "Red Blood Corpuscles",
+		  "parameterNames": [
+			"PCV (HCT)",
+			"RBC Count"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "RBC Indices",
+		  "parameterNames": [
+			"MCV",
+			"MCH",
+			"MCHC",
+			"RDW-CV"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "White Blood Corpuscles",
+		  "parameterNames": [
+			"Total Leukocyte Count"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Differential Count",
+		  "parameterNames": [
+			"Neutrophils",
+			"Lymphocytes",
+			"Eosinophils",
+			"Monocytes",
+			"Basophils"
+		  ],
+		  "is100": true
+		},
+		{
+		  "title": "Platelets",
+		  "parameterNames": [
+			"Platelet Count",
+			"MPV",
+			"RBC MORPHOLOGY",
+			"WBC MORPHOLOGY",
+			"PLATELETS ON SMEAR"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Remark",
+		  "parameterNames": [
+			"Remark:"
+		  ],
+		  "is100": false
+		}
+	  ],
+	  "tpa_price": 100,
+	  "interpretation": "<p>\n<h5>Interpretation :</h5>\nCBC examination is used as a screening tool to confirm hematologic disorder, to establish or rule out a diagnosis, to detect an unsuspected hematologic disorder, or to monitor effects of radiation or chemotherapy. Abnormal results may be due to a primary disorder of the cell-producing organs or an underlying disease. Results should be interpreted in conjunction with the patient's clinical picture and appropriate additional testing performed.\n</p>"
+	},
+	{
+	  "id": 2150,
+	  "created_at": "2025-03-15 17:05:20.321+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TOTAL BILLIRUBIN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 1.2"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 1.2"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "DIRECT BILLIRUBIN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 0.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 0.5"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "INDIRECT BILLIRUBIN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 0.7"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 0.7"
+			  }
+			]
+		  },
+		  "formula": "TOTAL BILLIRUBIN - DIRECT BILLIRUBIN",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "SGOT (AST)",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 40"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 40"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "SGPT (ALT)",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 40"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 40"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "ALKALINE PHOSPHATASE",
+		  "unit": "IU/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "64 to 306"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "64 to 306"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "S. PROTEIN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "6.0 to 8.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "6.0 to 8.3"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "S. ALBUMIN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.0"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.0"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "S. GLOBULIN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.3 to 3.6"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.3 to 3.6"
+			  }
+			]
+		  },
+		  "formula": "S. PROTEIN - S. ALBUMIN",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "A/G RATIO",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.9 to 2.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.9 to 2.3"
+			  }
+			]
+		  },
+		  "formula": "S. ALBUMIN / (S. PROTEIN - S. ALBUMIN)",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "REMARK ",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "Liver Function Test",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2151,
+	  "created_at": "2025-03-17 01:23:02.687+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TOTAL CHOLESTEROL",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-200"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-200"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. TRIGLYCERIDE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-150"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-150"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S.HDL CHOLESTEROL",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "30-70"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "30-70"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "VLDL CHOLESTEROL",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 35"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 35"
+			  }
+			]
+		  },
+		  "formula": "S. TRIGLYCERIDE / 5",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S.LDL CHOLESTEROL",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 160"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 160"
+			  }
+			]
+		  },
+		  "formula": "TOTAL CHOLESTEROL - S.HDL CHOLESTEROL - (S. TRIGLYCERIDE / 5)",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "LDL CHOL/HDL RATIO",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 4.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 4.5"
+			  }
+			]
+		  },
+		  "formula": "S.LDL CHOLESTEROL / S.HDL CHOLESTEROL",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "CHOL/HDL CHOL RATIO",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 4.8"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0 - 4.8"
+			  }
+			]
+		  },
+		  "formula": "TOTAL CHOLESTEROL / S.HDL CHOLESTEROL",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "REMARK:",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "Lipid Profile",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2152,
+	  "created_at": "2025-03-17 02:12:21.389+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "PROTHROMBIN TIME",
+		  "unit": "seconds",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "11 - 15"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "11 - 15"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "CONTROL",
+		  "unit": "seconds",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1 - 13"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1 - 13"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "ISI VALUE",
+		  "unit": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "INR",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150",
+				"rangeValue": "0.5 - 1.8"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150",
+				"rangeValue": "0.5 - 1.8"
+			  }
+			]
+		  },
+		  "formula": "(PROTHROMBIN TIME/CONTROL)**ISI VALUE",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "PROTHROMBIN TIME (PT-INR)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2153,
+	  "created_at": "2025-03-17 02:25:55.612+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "ABO GROUP",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "RH FACTOR",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "Remark",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "Blood Group & RH Factor",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2154,
+	  "created_at": "2025-03-17 03:07:08.395+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "RANDOM BLOOD SUGAR",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE SUGAR",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ]
+		}
+	  ],
+	  "price": 50,
+	  "test_name": "BLOOD GLUCOSE RANDOM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2155,
+	  "created_at": "2025-03-17 03:09:20.243+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "FASTING BLOOD GLUCOSE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 110"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 110"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ],
+		  "defaultValue": ""
+		},
+		{
+		  "name": "URINE GLUCOSE (FASTING)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ],
+		  "defaultValue": ""
+		},
+		{
+		  "name": "URINE KETONE (FASTING)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ],
+		  "defaultValue": ""
+		},
+		{
+		  "name": "POST PRANDIAL BLOOD GLUCOSE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ],
+		  "defaultValue": ""
+		},
+		{
+		  "name": "URINE GLUCOSE (PP)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ],
+		  "defaultValue": ""
+		},
+		{
+		  "name": "URINE KETONE (PP)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ],
+		  "defaultValue": ""
+		},
+		{
+		  "name": "Remark: ",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "BLOOD GLUCOSE FASTING & PP",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2156,
+	  "created_at": "2025-03-17 03:11:05.154+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "FASTING BLOOD GLUCOSE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 110"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 110"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE GLUCOSE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": true,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ]
+		},
+		{
+		  "name": "URINE KETONE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": true,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			},
+			{
+			  "shortName": "Trace",
+			  "description": "Present (Trace)"
+			},
+			{
+			  "shortName": "+",
+			  "description": "Present (+)"
+			},
+			{
+			  "shortName": "++",
+			  "description": "Present (++)"
+			},
+			{
+			  "shortName": "+++",
+			  "description": "Present (+++)"
+			},
+			{
+			  "shortName": "++++",
+			  "description": "Present (++++)"
+			},
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "NoSample",
+			  "description": "No Sample"
+			}
+		  ]
+		}
+	  ],
+	  "price": 50,
+	  "test_name": "BLOOD GLUCOSE FASTING",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2157,
+	  "created_at": "2025-03-17 03:11:05.434+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "POST PRANDIAL BLOOD GLUCOSE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE GLUCOSE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "URINE KETONE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 50,
+	  "test_name": "POSTPRANDIAL GLUCOSE TEST",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2158,
+	  "created_at": "2025-03-17 03:13:48.986+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "HBA1C",
+		  "unit": "%",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Below 5.7% (Normal);   /n 5.7% to 6.4% (Prediabetes); /n 6.5% or greater (Diabetes)"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Below 5.7% (Normal); /n 5.7% to 6.4% (Prediabetes); /n 6.5% or greater (Diabetes)"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "AVERAGE BLOOD GLUCOSE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "28.7 * HBA1C - 46.7",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "GLYCOSYLATED HEMOGLOBIN (HBA1C)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2159,
+	  "created_at": "2025-03-17 03:24:30.838+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. TYPHI 'O'",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "h",
+			  "description": "hiii"
+			}
+		  ]
+		},
+		{
+		  "name": "S. TYPHI 'H'",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "S. PARATYPHI 'AH'",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "S. PARATYPHI 'BH'",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "<1:80 (Negative)"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "WIDAL TEST",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Interpretation :</h5>\n  In an individual with no prior exposure to S typhi infection (either lack of active infection or absence of passive immunization), a titer higher than 1:80 or 1:160 on an initial single test, usually indicates exposure to typhoid fever.\n</p>"
+	},
+	{
+	  "id": 2160,
+	  "created_at": "2025-03-17 03:31:01.898+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "DENGUE NS1",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "DENGUE NS1 ANTIGEN (SCREENING)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2161,
+	  "created_at": "2025-03-17 03:31:02.172+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "DENGUE IGG",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "DENGUE IGM",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "DENGUE IGG & IGM (SCREENING)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2162,
+	  "created_at": "2025-03-17 03:31:02.444+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "P. FALCIPARUM ANTIGEN",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "P. VIVAX ANTIGEN",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 400,
+	  "test_name": "MALARIA ANTIGEN TEST",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2163,
+	  "created_at": "2025-03-17 03:34:24.666+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "MALARIAL PARASITE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Not Seen"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Not Seen"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "MALARIAL PARASITE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Interpretation :</h5>\n  1. Parasites are usually seen during febrile episode.\n  2. Peripheral smear has sensitivity of 86.79% and hence repeated smear examination can be required to rule out false negativity.\n  3. Peripheral smear examination is a screening test and other methods like QBC (quantitative buffy coat), malaria antigen test and PCR should be used for confirmation especially in low parasitic index.\n  4. Parasitic index reflects severity of infestation (parasites per 100 RBC).\n  5. Parasitemia after adequate therapy is indicative of resistant strains.\n</p>"
+	},
+	{
+	  "id": 2164,
+	  "created_at": "2025-03-17 03:38:40.154+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "HCV",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "HEPATITIS C VIRUS ANTIBODIES (HCV)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>\n\n<p><strong>Interpretation</strong>:\nThe Presence of Anti-HCV antibodies in serum or Plasma is an indication of an active Hepatitis C \ninfection, either acute or Chronic.\nThis test is screening test and all positive test must be confirmed using an alternate test such as PCR.\nAnon reactive result does not exclude the possibility of exposure to or infection with HCV.\nPatients with auto-immune liver diseases may show false positive results.</p>"
+	},
+	{
+	  "id": 2165,
+	  "created_at": "2025-03-17 03:38:40.431+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "HIV - 1",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "HIV - 2",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 450,
+	  "test_name": "HIV I and II ANTIBODY DETECTION",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2166,
+	  "created_at": "2025-03-17 03:38:40.705+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "HBSAG",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 350,
+	  "test_name": "HEPATITIS B SURFACE ANTIGEN (HBsAg)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2167,
+	  "created_at": "2025-03-17 03:40:18.769+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "CRP - QUANTITATIVE",
+		  "unit": "mg/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 6"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 6"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "Remark: ",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "C REACTIVE PROTEIN (CRP) - QUANTITATIVE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Interpretation :</h5>\n  CRP is more sensitive and reliable indicator of inflammatory processes than ESR. Elevated levels of CRP is an indicator of inflammation in acute and chronic conditions, including acute myocardial infarctions, rheumatoid arthritis, bacterial and viral infections, Inflammatory bowel disease (Crohn's disease and ulcerative colitis), Autoimmune disorders(such as lupus, rheumatoid arthritis, and vasculitis), and Lung diseases, such as asthma. The liver produces the C-reactive protein in response to inflammation. CRP levels are not influenced by hematologic conditions like Anemia, Polycythemia, etc.\n</p>"
+	},
+	{
+	  "id": 2168,
+	  "created_at": "2025-03-17 03:41:18.697+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "RA",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "TITRE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "Rheumatoid Factor",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2169,
+	  "created_at": "2025-03-17 03:46:41.45+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "VOLUME",
+		  "unit": "ml",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "-"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "-"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "COLOUR",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Pale Yellow"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Pale Yellow"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Pale Yellow",
+			  "description": "Pale Yellow"
+			}
+		  ]
+		},
+		{
+		  "name": "APPEARANCE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Clear"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Clear"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Slightly Hazy",
+			  "description": "Slightly Hazy"
+			}
+		  ]
+		},
+		{
+		  "name": "DEPOSIT",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "REACTION (PH)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Acidic"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Acidic"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Acidic",
+			  "description": "Acidic"
+			},
+			{
+			  "shortName": "Alkaline",
+			  "description": "Alkaline"
+			}
+		  ]
+		},
+		{
+		  "name": "SPECIFIC GRAVITY",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1.003 - 1.035"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1.003 - 1.035"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "1.010",
+			  "description": "1.010"
+			}
+		  ]
+		},
+		{
+		  "name": "PROTEIN (ALBUMIN)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "OCCULT BLOOD",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Negative"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Negative"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Negative",
+			  "description": "Negative"
+			}
+		  ]
+		},
+		{
+		  "name": "SUGAR",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "KETONES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "BILE SALT & PIGMENT",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "UROBILINOGEN",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Normal"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Normal"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Normal",
+			  "description": "Normal"
+			}
+		  ]
+		},
+		{
+		  "name": "RED BLOOD CELLS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "PUS CELLS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 5"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "1-2 /HPF",
+			  "description": "1-2 /HPF"
+			}
+		  ]
+		},
+		{
+		  "name": "EPITHELIAL CELLS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 4"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 4"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "1-2 /HPF",
+			  "description": "1-2 /HPF"
+			}
+		  ]
+		},
+		{
+		  "name": "CASTS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "CRYSTALS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "BACTERIA",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "YEAST CELLS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "ANY OTHER FINDINGS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "suggestions": [
+			{
+			  "shortName": "Absent",
+			  "description": "Absent"
+			},
+			{
+			  "shortName": "Present",
+			  "description": "Present"
+			}
+		  ]
+		},
+		{
+		  "name": "REMARK",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "URINE ROUTINE EXAMINATION",
+	  "sub_heading": [
+		{
+		  "title": "Physical Examination",
+		  "parameterNames": [
+			"VOLUME",
+			"COLOUR",
+			"APPEARANCE",
+			"DEPOSIT"
+		  ]
+		},
+		{
+		  "title": "Chemical Examination",
+		  "parameterNames": [
+			"REACTION (PH)",
+			"SPECIFIC GRAVITY",
+			"PROTEIN (ALBUMIN)",
+			"OCCULT BLOOD",
+			"SUGAR",
+			"KETONES",
+			"BILE SALT & PIGMENT",
+			"UROBILINOGEN"
+		  ]
+		},
+		{
+		  "title": "Microscopic Examination",
+		  "parameterNames": [
+			"RED BLOOD CELLS",
+			"PUS CELLS",
+			"EPITHELIAL CELLS",
+			"CASTS",
+			"CRYSTALS",
+			"BACTERIA",
+			"YEAST CELLS",
+			"ANY OTHER FINDINGS",
+			"REMARK"
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2170,
+	  "created_at": "2025-03-17 03:46:41.737+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "COLOUR",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "CONSISTANCY",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "MUCUS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "ADULT WORM 1",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "FRANK BLOOD",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "ADULT WORM 2",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "REACTION",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "OCCULT BLOOD",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "RED BLOOD CELLS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "PUS CELLS",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "UNDIGESTED MATERIAL",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "MACROPHAGES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "FAT GLOBULES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "PROTOZOA",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "FLAGELLATE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "CYST",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "OVA",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "LARVAE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "BACTERIA",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "STOOL ROUTINE EXAMINATION",
+	  "sub_heading": [
+		{
+		  "title": "Physical Examination",
+		  "parameterNames": [
+			"COLOUR",
+			"CONSISTANCY",
+			"MUCUS",
+			"ADULT WORM 1",
+			"FRANK BLOOD",
+			"ADULT WORM 2"
+		  ]
+		},
+		{
+		  "title": "Chemical Examination",
+		  "parameterNames": [
+			"REACTION",
+			"OCCULT BLOOD"
+		  ]
+		},
+		{
+		  "title": "Microscopic Examination",
+		  "parameterNames": [
+			"RED BLOOD CELLS",
+			"PUS CELLS",
+			"UNDIGESTED MATERIAL",
+			"MACROPHAGES",
+			"FAT GLOBULES",
+			"PROTOZOA",
+			"FLAGELLATE",
+			"CYST",
+			"OVA",
+			"LARVAE",
+			"BACTERIA"
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2171,
+	  "created_at": "2025-03-17 03:50:18.41+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "VDRL",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 250,
+	  "test_name": "VDRL",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2172,
+	  "created_at": "2025-03-17 03:50:27.913+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TROPONIN - T",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 1500,
+	  "test_name": "TROPONIN T",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2173,
+	  "created_at": "2025-03-17 03:51:30.57+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TROPONIN I",
+		  "unit": "ng/ml",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0.0 - 0.40"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0.0 - 0.40"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "TROPONIN I",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2174,
+	  "created_at": "2025-03-17 03:52:30.481+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "CPK-TOTAL",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "46 - 171"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "46 - 171"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 650,
+	  "test_name": "Creatine Phosphokinase (CPK-TOTAL)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2175,
+	  "created_at": "2025-03-17 03:52:30.755+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "CK-MB",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1 - 24"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1 - 24"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "Antibodies Against CK-MB",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "-"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "-"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 650,
+	  "test_name": "Creatine Kinase-MB (CK-MB)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2176,
+	  "created_at": "2025-03-17 03:53:58.681+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "NT - PRO BNP",
+		  "unit": "pg/ml",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 300"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 300"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "COMMENT",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 3000,
+	  "test_name": "NT- Pro BNP | B-type natriuretic peptide",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2177,
+	  "created_at": "2025-03-17 03:54:13.216+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "D-DIMER",
+		  "unit": "mg/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 0.50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 0.50"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "COMMENT",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 1500,
+	  "test_name": "D-DIMER",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2178,
+	  "created_at": "2025-03-17 03:55:59.425+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "PROCALCITONIN",
+		  "unit": "ng/ml",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 0.50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 0.50"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "COMMENT",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 2500,
+	  "test_name": "PROCALCITONIN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2179,
+	  "created_at": "2025-03-17 03:56:15.481+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "PH",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "7.2 to 7.6"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "7.2 to 7.6"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "PCO2",
+		  "unit": "mmHg",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "30 to 50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "30 to 50"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "PO2",
+		  "unit": "mmHg",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "80 - 100"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "80 - 100"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "BASE EXCESS (BE)",
+		  "unit": "mmol/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "TOTAL CO2 (TCO2)",
+		  "unit": "mmol/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "ACTUAL BICARBONATE (HCO3)",
+		  "unit": "mmol/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "22 - 26"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "22 - 26"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "TOTAL HEMOGLOBIN (THB)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "12 to 17"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "12 to 17"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "HB OXYGEN SATURATION (SO2)",
+		  "unit": "%",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "90 to 100"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "90 to 100"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "Remark: ",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "ARTERIAL BLOOD GAS (ABG)",
+	  "sub_heading": [
+		{
+		  "title": "HEMOGLOBIN / OXYGEN STATUS",
+		  "parameterNames": [
+			"TOTAL HEMOGLOBIN (THB)",
+			"HB OXYGEN SATURATION (SO2)",
+			"Remark: "
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2180,
+	  "created_at": "2025-03-17 03:58:08.745+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TYPHI IGG",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "TYPHI IGM",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "TYPHI IGG & IGM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2181,
+	  "created_at": "2025-03-17 04:00:27.576+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "APTT",
+		  "unit": "Sec",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "25 - 42"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "25 - 42"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "CONTROL",
+		  "unit": "Sec",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "ACTIVATED PARTIAL THROMBOPLASTIN (APTT)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2182,
+	  "created_at": "2025-03-17 04:00:42.456+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "AMYLASE",
+		  "unit": "IU/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "25 - 80"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "25 - 80"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "AMYLASE SERUM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2183,
+	  "created_at": "2025-03-17 04:00:42.731+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "LIPASE",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 64"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 64"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "SERUM LIPASE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2184,
+	  "created_at": "2025-03-17 04:01:42.265+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "G6PD (QUANTITATIVE)",
+		  "unit": "U/HB",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "6.4 - 20"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "6.4 - 20"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "GLUCOSE 6 PHOSPHATE DEHYDROGENASE (G6PD)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2185,
+	  "created_at": "2025-03-17 04:03:03.28+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "FASTING BLOOD GLUCOSE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 110"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 110"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "FASTING URINE GLUCOSE",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD SUGAR AFTER 30 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE SUGAR AFTER 30 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD SUGAR AFTER 60 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE SUGAR AFTER 60 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD SUGAR AFTER 90 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE SUGAR AFTER 90 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD SUGAR AFTER 120 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE SUGAR AFTER 120 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD GLUCOSE AFTER 30 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE GLUCOSE AFTER 30 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD GLUCOSE AFTER 60 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE GLUCOSE AFTER 60 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD GLUCOSE AFTER 90 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE GLUCOSE AFTER 90 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "BLOOD GLUCOSE AFTER 120 MINUTES",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "70 - 140"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		},
+		{
+		  "name": "URINE GLUCOSE AFTER 120 MINUTES",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "ABSENT"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 300,
+	  "test_name": "GLUCOSE TOLERANCE TEST (GTT)",
+	  "sub_heading": [
+		{
+		  "title": "After 75/100 grm. of Glucose",
+		  "parameterNames": [
+			"BLOOD SUGAR AFTER 30 MINUTES",
+			"URINE SUGAR AFTER 30 MINUTES",
+			"BLOOD SUGAR AFTER 60 MINUTES",
+			"URINE SUGAR AFTER 60 MINUTES",
+			"BLOOD SUGAR AFTER 90 MINUTES",
+			"URINE SUGAR AFTER 90 MINUTES",
+			"BLOOD SUGAR AFTER 120 MINUTES",
+			"URINE SUGAR AFTER 120 MINUTES"
+		  ]
+		},
+		{
+		  "title": "After 75/100 grm. of Glucose",
+		  "parameterNames": [
+			"BLOOD GLUCOSE AFTER 30 MINUTES",
+			"URINE GLUCOSE AFTER 30 MINUTES",
+			"BLOOD GLUCOSE AFTER 60 MINUTES",
+			"URINE GLUCOSE AFTER 60 MINUTES",
+			"BLOOD GLUCOSE AFTER 90 MINUTES",
+			"URINE GLUCOSE AFTER 90 MINUTES",
+			"BLOOD GLUCOSE AFTER 120 MINUTES",
+			"URINE GLUCOSE AFTER 120 MINUTES"
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2186,
+	  "created_at": "2025-03-17 04:03:35.736+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "CHIKUNGUNYA IGG",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		},
+		{
+		  "name": "CHIKUNGUNYA IGM",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "CHIKUNGUNYA IGG & IGM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2187,
+	  "created_at": "2025-03-17 04:03:49.392+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "CHIKUNGUNYA IGM",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "CHIKUNGUNYA IGM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2188,
+	  "created_at": "2025-03-17 17:56:25.107+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "HEMOGLOBIN",
+		  "unit": "gm/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "18-65y",
+				"rangeValue": "12 - 16"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "18-65y",
+				"rangeValue": "12 - 16"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "HEMOGLOBIN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2189,
+	  "created_at": "2025-03-17 17:56:25.464+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "PLATELET COUNT",
+		  "unit": "Lakh/cumm",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-65y",
+				"rangeValue": "150000 - 450000"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-65y",
+				"rangeValue": "150000 - 450000"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "PLATELET MORPHOLOGY ",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "PLATELET COUNT",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2190,
+	  "created_at": "2025-03-17 18:00:40.355+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TOTAL BILIRUBIN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.1-1.2"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.1-1.2"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "DIRECT BILIRUBIN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0-0.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0-0.5"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		},
+		{
+		  "name": "INDIRECT BILIRUBIN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0-0.7"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0-0.7"
+			  }
+			]
+		  },
+		  "formula": "TOTAL BILIRUBIN - DIRECT BILIRUBIN",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "BILIRUBIN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2191,
+	  "created_at": "2025-03-17 18:03:47.915+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "SGOT (AST)",
+		  "unit": "IU/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-40"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-40"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "SGOT (AST)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Clinical Significance :</h5>\n  Elevated Aspartate Aminotransferase (AST) values are seen most commonly in parenchymal liver diseases, where elevations commonly range from 20 to 50 times the normal range, and can reach up to 100 times. AST levels are raised along with ALT in infectious hepatitis and other inflammatory liver conditions, though ALT levels are typically higher. Elevated AST values may also be seen in disorders affecting the heart, skeletal muscle, and kidney, such as myocardial infarction, muscular dystrophy, dermatomyositis, acute pancreatitis, and crushed muscle injuries.\n</p>"
+	},
+	{
+	  "id": 2192,
+	  "created_at": "2025-03-17 18:03:48.188+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "SGPT (ALT)",
+		  "unit": "IU/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-40"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0-40"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "SGPT (ALT)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Clinical Significance :</h5>\n  Elevated Alanine Aminotransferase (ALT) values are seen in parenchymal liver diseases characterized by the destruction of hepatocytes. Values are at least 10 times higher than the normal range and may reach up to 100 times the upper reference limit; commonly, values are seen to be 20 - 50 times higher than normal. In infectious hepatitis and other inflammatory conditions affecting the liver, ALT levels rise more than Aspartate Aminotransferase (AST).\n</p>"
+	},
+	{
+	  "id": 2193,
+	  "created_at": "2025-03-17 18:03:48.459+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "ALKALINE PHOSPHATASE",
+		  "unit": "IU/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "64 - 306"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "64 - 306"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "ALKALINE PHOSPHATASE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2194,
+	  "created_at": "2025-03-17 18:03:48.731+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. PROTIEN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "6.0 to 8.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "6.0 to 8.3"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "S. PROTIEN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2195,
+	  "created_at": "2025-03-17 18:03:49.004+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. ALBUMIN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 to 5.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 to 5.3"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "S. ALBUMIN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2196,
+	  "created_at": "2025-03-17 22:57:41.958+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 600,
+	  "test_name": "Iron Study",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2197,
+	  "created_at": "2025-03-17 23:18:06.189+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Anti Nuclear Antibody (ANA)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2198,
+	  "created_at": "2025-03-17 23:18:06.457+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Blood Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2199,
+	  "created_at": "2025-03-17 23:18:06.726+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Urine Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2200,
+	  "created_at": "2025-03-17 23:18:06.993+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Sputum Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2201,
+	  "created_at": "2025-03-17 23:18:07.262+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 0,
+	  "test_name": "TB PCR",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2202,
+	  "created_at": "2025-03-17 23:18:07.531+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 0,
+	  "test_name": "H. Pylori",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2203,
+	  "created_at": "2025-03-17 23:18:07.8+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 600,
+	  "test_name": "T3 T4 TSH",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2204,
+	  "created_at": "2025-03-17 23:18:08.069+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Vitamin B12",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2205,
+	  "created_at": "2025-03-17 23:18:08.339+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Vitamin D3",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2206,
+	  "created_at": "2025-03-17 23:18:08.608+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Insulin Fasting",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2207,
+	  "created_at": "2025-03-17 23:18:08.877+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Insulin PP",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2208,
+	  "created_at": "2025-03-17 23:18:09.144+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Insulin Random",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2209,
+	  "created_at": "2025-03-17 23:18:09.411+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 500,
+	  "test_name": "FSH",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2210,
+	  "created_at": "2025-03-17 23:18:09.681+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 600,
+	  "test_name": "LH",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2211,
+	  "created_at": "2025-03-17 23:18:09.949+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 600,
+	  "test_name": "Prolactin",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2212,
+	  "created_at": "2025-03-17 23:18:10.216+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 700,
+	  "test_name": "Estradiol",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2213,
+	  "created_at": "2025-03-17 23:18:10.485+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 800,
+	  "test_name": "Testosterone Total",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2214,
+	  "created_at": "2025-03-17 23:18:10.755+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Testosterone Free",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2215,
+	  "created_at": "2025-03-17 23:18:11.024+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 700,
+	  "test_name": "Covid-19 RT PCR",
+	  "sub_heading": [],
+	  "tpa_price": 1200,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2216,
+	  "created_at": "2025-03-17 23:18:11.292+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 0,
+	  "test_name": "Covid-19 Antigen",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2217,
+	  "created_at": "2025-03-17 23:18:11.561+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Torch Panel",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2218,
+	  "created_at": "2025-03-17 23:18:11.831+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 0,
+	  "test_name": "HIV Viral Load",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2219,
+	  "created_at": "2025-03-17 23:18:12.1+00",
+	  "outsource": false,
+	  "parameter": [],
+	  "price": 6500,
+	  "test_name": "HBV Viral Load",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2220,
+	  "created_at": "2025-03-17 23:18:12.367+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 6000,
+	  "test_name": "HCV Viral Load",
+	  "sub_heading": [],
+	  "tpa_price": 8500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2221,
+	  "created_at": "2025-03-18 04:34:29.157+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "BLEEDING TIME",
+		  "unit": "Min",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-7 Min.",
+				"rangeValue": "1 Min to 7 Min."
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-7 Min.",
+				"rangeValue": " 1 Min to 7 Min."
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "CLOTTING TIME",
+		  "unit": "Min",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "4-12 Min.",
+				"rangeValue": "4 Min to 12 Min."
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "4-12 Min.",
+				"rangeValue": "4 Min to 12 Min."
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "BLEEDING TIME & CLOTTING TIME",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2222,
+	  "created_at": "2025-03-18 04:43:45.277+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. SODIUM",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "135 - 155"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "135 - 155"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "S. POTASSIUM",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.5"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "S. CHLORIDE",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "95 - 109"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "95 - 109"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "Electrolyte",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Interpretation :</h5>\n  Electrolytes are essential for maintaining fluid balance, nerve function, muscle contraction, and overall cellular processes. Imbalances in these electrolytes can indicate various underlying conditions.\nLow levels of electrolytes are noted in reduced dietary intake, prolonged vomiting, and reduced renal reabsorption as well as some forms of acidosis and alkalosis. High levels are found in dehydration, kidney failure, some forms of acidosis, high dietary or parenteral chloride intake, and salicylate poisoning.</p>"
+	},
+	{
+	  "id": 2223,
+	  "created_at": "2025-03-18 04:43:45.549+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "BLOOD UREA",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "10 - 50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "10 - 50"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "BLOOD UREA NITROGEN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0 - 23.0"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0 - 23.0"
+			  }
+			]
+		  },
+		  "formula": "BLOOD UREA / 2.14",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. CREATININE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.7 to 1.4"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.6 to 1.4"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. SODIUM",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "135 - 155"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "135 - 155"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. POTASSIUM",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.5"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. CHLORIDE",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "95 - 109"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "95 - 109"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. URIC ACID",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 7.2"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.6 - 6.0"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. CALCIUM",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "8.4 - 10.4"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "8.4 - 10.4"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. PHOSPHORUS",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.5 - 4.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.5 - 4.5"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. PROTIEN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "6.0 to 8.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "6.0 to 8.3"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. ALBUMIN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 to 5.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 to 5.3"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "S. GLOBULIN",
+		  "unit": "g/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.3 to 3.6"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.3 to 3.6"
+			  }
+			]
+		  },
+		  "formula": "S. PROTIEN - S. ALBUMIN",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "A/G RATIO",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.9 - 2.3"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.9 - 2.3"
+			  }
+			]
+		  },
+		  "formula": "S. ALBUMIN / S. GLOBULIN",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "REMARK :",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "Renal Function Test",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2224,
+	  "created_at": "2025-03-18 04:56:36.309+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. CREATININE",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.7 to 1.4"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.6 to 1.4"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "S. CREATININE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Clinical Significance :</h5>\n  Serum creatinine is inversely correlated with Glomerular Filtration Rate (GFR); therefore, increased levels are associated with renal dysfunction. Creatinine is a waste product formed in muscles from creatine phosphate, and its production is constant and primarily a function of muscle mass. Physiological factors affecting serum creatinine include age, gender, race, muscularity, exercise, pregnancy, certain drugs, diet, dehydration, and nutritional status. Low serum creatinine levels are seen in cases of low muscle mass (like muscular atrophy or aging). High serum creatinine levels are seen in Acute and Chronic kidney disease and obstruction. Since a rise in blood creatinine is observed only with marked damage of the nephrons, it is not suited to detect early-stage kidney disease.\n</p>"
+	},
+	{
+	  "id": 2225,
+	  "created_at": "2025-03-18 04:56:36.582+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. SODIUM",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "135 - 155"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "135 - 155"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "S. SODIUM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2226,
+	  "created_at": "2025-03-18 04:56:36.852+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. POTASSIUM",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 5.5"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "S. POTASSIUM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2227,
+	  "created_at": "2025-03-18 04:56:37.123+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. CHLORIDE",
+		  "unit": "mEq/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "95 - 109"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "95 - 109"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "S. CHLORIDE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2228,
+	  "created_at": "2025-03-18 04:56:37.393+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. URIC ACID",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "3.5 - 7.2"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.60 - 6.0"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "S. URIC ACID",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2229,
+	  "created_at": "2025-03-18 04:56:37.662+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. CALCIUM",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "8.4 - 10.4"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "8.4 - 10.4"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "S. CALCIUM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2230,
+	  "created_at": "2025-03-18 04:56:37.952+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "S. PHOSPHORUS",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.5 - 4.5"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "2.5 - 4.5"
+			  }
+			]
+		  },
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "S. PHOSPHORUS",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2231,
+	  "created_at": "2025-03-18 05:00:15.509+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "DENGUE NS1",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "DENGUE IGG",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		},
+		{
+		  "name": "DENGUE IGM",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "DENGUE PROFILE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2232,
+	  "created_at": "2025-03-18 05:04:20.782+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "HCV",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "HIV - 1",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "HIV - 2",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NON REACTIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		},
+		{
+		  "name": "HBSAG",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 1400,
+	  "test_name": "Triple H (HIV, HBSAG, HCV)",
+	  "sub_heading": [
+		{
+		  "title": "HIV I & II",
+		  "parameterNames": [
+			"HIV - 1",
+			"HIV - 2"
+		  ]
+		},
+		{
+		  "title": "Hepatitis B surface Antigen ",
+		  "parameterNames": [
+			"HBSAG"
+		  ]
+		},
+		{
+		  "title": "Hepatitis C Virus (HCV)",
+		  "parameterNames": [
+			"HCV"
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography<p>\n<h5>Interpretation :</h5>\n  Negative results does not exclude the possibility of exposure to HIV infection.\n  Positive result should be confirmed by standard assay like CMIA / WESTERN BLOT / Viral Load / PCR tests.\n  NOTE : All reactive results must be confirmed by CMIA / HBV DNA detection assay.\n</p></p>"
+	},
+	{
+	  "id": 2233,
+	  "created_at": "2025-03-18 17:20:40.834+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "BLOOD UREA",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "10 - 50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "10 - 50"
+			  }
+			]
+		  },
+		  "valueType": "number",
+		  "visibility": "hidden"
+		},
+		{
+		  "name": "BLOOD UREA NITROGEN",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0 - 23.0"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-65y",
+				"rangeValue": "0.0 - 23.0"
+			  }
+			]
+		  },
+		  "formula": "BLOOD UREA / 2.14",
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "BLOOD UREA NITROGEN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2234,
+	  "created_at": "2025-04-20 19:04:29.939+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "ESR",
+		  "unit": "mm/hr",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-65y",
+				"rangeValue": "0-20"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-65y",
+				"rangeValue": "0-20"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "Erythrocyte Sedimentation Rate (ESR)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p>\n  <h5>Interpretation :</h5>\n  The Erythrocyte Sedimentation Rate (ESR) is a simple but non-specific test that helps to detect inflammation associated with conditions such as infections, cancers, and autoimmune diseases.\n</p>"
+	},
+	{
+	  "id": 2235,
+	  "created_at": "2025-04-21 15:00:24.082+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "STOOL OCCULT BLOOD",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "STOOL OCCULT BLOOD",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2236,
+	  "created_at": "2025-05-01 09:04:26.182+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 7000,
+	  "test_name": "COMMON FOOD ALLERGY TEST",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2237,
+	  "created_at": "2025-05-01 09:30:26.766+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "TOTAL IGE COUNT",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2238,
+	  "created_at": "2025-05-01 14:35:07.923+00",
+	  "outsource": true,
+	  "parameter": [
+		{
+		  "name": "Ammonia ",
+		  "unit": "Ug/dl",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "17 - 120"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "17 - 120"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "AMMONIA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2239,
+	  "created_at": "2025-05-01 14:51:23.447+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "ASCITIC FLUID ROUTINE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2240,
+	  "created_at": "2025-05-01 14:51:39.87+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "ASCITIC FLUID AFB",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2241,
+	  "created_at": "2025-05-01 14:51:54.847+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "ASCITIC FLUID GENEXPERT",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2242,
+	  "created_at": "2025-05-01 14:52:14.638+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "ASCITIC FLUID CULTURE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2243,
+	  "created_at": "2025-05-01 14:52:34.238+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "ASCITIC FLUID AFB CULTURE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2244,
+	  "created_at": "2025-05-01 14:52:48.335+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "ASCITIC FLUID ADA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2245,
+	  "created_at": "2025-05-01 17:15:23.308+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Ionized Calcium ",
+		  "unit": "mEq/lit",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "1.12 - 1.32"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "1.12 - 1.32"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 500,
+	  "test_name": "IONIZED CALCIUM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2246,
+	  "created_at": "2025-05-02 10:47:11.479+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 350,
+	  "test_name": "THYROID STIMULATING HORMONES (TSH)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2247,
+	  "created_at": "2025-05-02 10:47:23.519+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "FERRITIN",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2248,
+	  "created_at": "2025-05-02 10:55:30.382+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "STOOL CULTURE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2249,
+	  "created_at": "2025-05-03 13:05:33.979+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 5000,
+	  "test_name": "IHC MARKER (ER, PR & HER-2 NEU)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2250,
+	  "created_at": "2025-05-03 14:35:38.254+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 5000,
+	  "test_name": "Histopathology of Uterus with Both Fallopian Tube",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2251,
+	  "created_at": "2025-05-03 19:25:24.443+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Urine Albumin / Creatinine Ratio",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2252,
+	  "created_at": "2025-05-03 19:26:11.168+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Urine Protein / Creatinine Ratio",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2253,
+	  "created_at": "2025-05-03 19:38:48.955+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 400,
+	  "test_name": "Estimated Glomerular Filtration Rate (eGFR)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2254,
+	  "created_at": "2025-05-05 10:49:27.841+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 20000,
+	  "test_name": "NIPT (Non-Invasive Prenatal Screening)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2255,
+	  "created_at": "2025-05-05 10:50:29.021+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1300,
+	  "test_name": "Homocysteine Level",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2256,
+	  "created_at": "2025-05-05 10:50:57.138+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 600,
+	  "test_name": "Immature Platelet Fraction (IPF)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2257,
+	  "created_at": "2025-05-05 19:23:55.798+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Blood Urea",
+		  "unit": "mg/dL",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-100y",
+				"rangeValue": "10 - 50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-100y",
+				"rangeValue": "10 - 50"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "BLOOD UREA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2258,
+	  "created_at": "2025-05-06 15:07:54.163+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "ANTI CCP ANTIBODY",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2259,
+	  "created_at": "2025-05-07 15:53:55.726+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "HAV IgG",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2260,
+	  "created_at": "2025-05-07 15:54:16.194+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "HAV IgM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2261,
+	  "created_at": "2025-05-07 15:54:29.239+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "HEV IgG",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2262,
+	  "created_at": "2025-05-07 15:54:41.018+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "HEV IgM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2263,
+	  "created_at": "2025-05-08 11:29:32.587+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Beta HCG",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2264,
+	  "created_at": "2025-05-09 04:36:13.343+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "SPUTUM AFB",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2265,
+	  "created_at": "2025-05-09 05:07:50.387+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Biopsies from Transverse colon for Histopath",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2266,
+	  "created_at": "2025-05-09 05:08:16.576+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Biopsies from Transverse colon for Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2267,
+	  "created_at": "2025-05-09 14:31:41.741+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "URINE PREGNANCY TEST (UPT)",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-100y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "URINE PREGNANCY TEST (UPT)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2268,
+	  "created_at": "2025-05-09 15:25:36.036+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2300,
+	  "test_name": "HLA B27",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2269,
+	  "created_at": "2025-05-10 08:11:46.229+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Para Thyroid Hormones (PTH)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2270,
+	  "created_at": "2025-05-11 20:27:48.593+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 6500,
+	  "test_name": "Histopathology",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2271,
+	  "created_at": "2025-05-12 13:26:41.234+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "PUS CULTURE & SENSITIVITY",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2272,
+	  "created_at": "2025-05-12 13:27:02.228+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Pleural Fluid Routine Examination",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2273,
+	  "created_at": "2025-05-12 13:27:19.138+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Pleural Fluid ADA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2274,
+	  "created_at": "2025-05-12 13:27:36.05+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Pleural Fluid Genexpert",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2275,
+	  "created_at": "2025-05-12 13:28:15.753+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 3500,
+	  "test_name": "Quadruple Marker",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2276,
+	  "created_at": "2025-05-12 15:57:10.32+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "HB Electrophoresis",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2277,
+	  "created_at": "2025-05-12 16:38:57.15+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2000,
+	  "test_name": "AMH (Anti Mullerian Hormones)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2278,
+	  "created_at": "2025-05-12 16:40:26.27+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 800,
+	  "test_name": "Rubella IgG",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2279,
+	  "created_at": "2025-05-12 16:40:44.439+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 800,
+	  "test_name": "Rubella IgM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2280,
+	  "created_at": "2025-05-14 11:35:20.787+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "FT3 FT4 TSH",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2281,
+	  "created_at": "2025-05-14 12:08:35.344+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Leptospira IgM",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "Leptospira IgM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2282,
+	  "created_at": "2025-05-14 12:43:12.72+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "ET Secretion For Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2283,
+	  "created_at": "2025-05-14 12:43:40.157+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "ET Tube For Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2284,
+	  "created_at": "2025-05-14 17:03:19.189+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1350,
+	  "test_name": "Lactate Plasma",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2285,
+	  "created_at": "2025-05-14 18:48:32.662+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Stool for Parasites",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NOT SEEN"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NOT SEEN"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "STOOL FOR PARASITE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2286,
+	  "created_at": "2025-05-15 09:49:19.557+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 3500,
+	  "test_name": "Serum Methotrexate Level",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2287,
+	  "created_at": "2025-05-15 15:55:50.718+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Date of Inoculation",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "Date of Reporting",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "PPD Dose",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "Read After",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "Induration (mm)",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " 0-5 mm - Negative \\n  5-10 mm - Equivocal \\n >10 mm - Positive"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " 0-5 mm - Negative \\n  5-10 mm - Equivocal \\n >10 mm - Positive"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": "",
+		  "suggestions": []
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "MANTOUX TEST (MTX)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2288,
+	  "created_at": "2025-05-17 08:35:36.127+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Anti Phospholipid Antibody IgG",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2289,
+	  "created_at": "2025-05-17 08:35:52.481+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Anti Phospholipid Antibody IgM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2290,
+	  "created_at": "2025-05-19 14:55:23.315+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "FNAC",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2291,
+	  "created_at": "2025-05-22 11:19:03.808+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "CSF FOR ROUTINE & MICROSCOPY",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2292,
+	  "created_at": "2025-05-22 11:19:20.857+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "CSF FOR ADA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2293,
+	  "created_at": "2025-05-22 11:19:41.902+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "CSF FOR CULTURE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2294,
+	  "created_at": "2025-05-22 11:20:01.43+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "CSF FOR GENEXPERT",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2295,
+	  "created_at": "2025-05-22 11:26:31.584+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 18000,
+	  "test_name": "PCR Febrile Neutropenia",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2296,
+	  "created_at": "2025-05-22 11:38:39.973+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "Sputum Gram Stain",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2297,
+	  "created_at": "2025-05-22 11:38:54.616+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Sputum Genexpert",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2298,
+	  "created_at": "2025-05-26 10:14:21.491+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "P ANCA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2299,
+	  "created_at": "2025-05-26 10:14:34.328+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1700,
+	  "test_name": "C ANCA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2300,
+	  "created_at": "2025-05-26 15:11:05.435+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "RBC Morphology\t",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		},
+		{
+		  "name": "WBC Morphology\t",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		},
+		{
+		  "name": "Platelets\t",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		},
+		{
+		  "name": "Parasite",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		},
+		{
+		  "name": "Pathologist Remark\t",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "text"
+		}
+	  ],
+	  "price": 300,
+	  "test_name": "PERIPHERAL BLOOD SMEAR",
+	  "sub_heading": [
+		{
+		  "title": "PERIPHERAL BLOOD SMEAR ",
+		  "parameterNames": [
+			"RBC Morphology\t",
+			"WBC Morphology\t",
+			"Platelets\t",
+			"Parasite",
+			"Pathologist Remark\t"
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2301,
+	  "created_at": "2025-05-26 15:14:00.187+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Reticulocytes Count (%)",
+		  "unit": "%\t",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": "0.4-2.5\t"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": "0.4-2.5\t"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 300,
+	  "test_name": "Reticulocytes Count",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2302,
+	  "created_at": "2025-05-26 15:32:07.541+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "BAL FOR GENEXPERT",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2303,
+	  "created_at": "2025-05-26 15:33:49.709+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "BAL FOR AFB CULTURE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2304,
+	  "created_at": "2025-05-26 15:34:21.533+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "BAL for Fungal Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2305,
+	  "created_at": "2025-05-26 15:34:45.309+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "BAL for Aerobic Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2306,
+	  "created_at": "2025-05-26 15:35:12.848+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 900,
+	  "test_name": "Special Stain for Norcardia & Actinomycosis",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2307,
+	  "created_at": "2025-05-26 15:35:47.621+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 8000,
+	  "test_name": "PCR for PNEUMOCYSTIS CARINII (JIROVECI)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2308,
+	  "created_at": "2025-05-26 15:37:36.901+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 3500,
+	  "test_name": "PARVOVIRUS ANTIBODY IgM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2309,
+	  "created_at": "2025-05-26 16:41:53.911+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Lactate Dehydrogenase (LDH)",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-3y",
+				"rangeValue": "490-730"
+			  },
+			  {
+				"rangeKey": "4-9y",
+				"rangeValue": "320-520"
+			  },
+			  {
+				"rangeKey": "10-13y",
+				"rangeValue": "250-500"
+			  },
+			  {
+				"rangeKey": "14-150y",
+				"rangeValue": "225-450"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-3y",
+				"rangeValue": "490-730"
+			  },
+			  {
+				"rangeKey": "4-9y",
+				"rangeValue": "320-520"
+			  },
+			  {
+				"rangeKey": "10-13y",
+				"rangeValue": "250-500"
+			  },
+			  {
+				"rangeKey": "14-150y",
+				"rangeValue": "225-450"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "Lactate Dehydrogenase (LDH)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2310,
+	  "created_at": "2025-05-27 11:26:35.077+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Dual Marker",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2311,
+	  "created_at": "2025-05-28 19:15:34.977+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Tissue Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2312,
+	  "created_at": "2025-06-01 16:04:14.438+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Urine Microalbumin",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2313,
+	  "created_at": "2025-06-02 09:35:35.929+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 550,
+	  "test_name": "Antistreptolysin O (ASO)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2314,
+	  "created_at": "2025-06-03 12:04:19.884+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 3500,
+	  "test_name": "ANA Blot - 17",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2315,
+	  "created_at": "2025-06-08 11:13:26.368+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "TROPONIN-I",
+		  "unit": "ng/ml ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0.0 - 0.40"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0.0 - 0.40"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "number"
+		},
+		{
+		  "name": "CK-MB",
+		  "unit": "U/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1 - 24"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "1 - 24"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "number"
+		},
+		{
+		  "name": "NT - PRO BNP",
+		  "unit": "pg/ml ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 300"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0 - 300"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "valueType": "number"
+		}
+	  ],
+	  "price": 2500,
+	  "test_name": "CARDIAC PANEL",
+	  "sub_heading": [
+		{
+		  "title": "TROPONIN I",
+		  "parameterNames": [
+			"TROPONIN-I"
+		  ]
+		},
+		{
+		  "title": "CREATINE KINASE-MB (CK-MB)",
+		  "parameterNames": [
+			"CK-MB"
+		  ]
+		},
+		{
+		  "title": "NT- PRO BNP | B-TYPE NATRIURETIC PEPTIDE",
+		  "parameterNames": [
+			"NT - PRO BNP"
+		  ]
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2316,
+	  "created_at": "2025-06-13 15:18:47.068+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Cytology for Malignant cell",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2317,
+	  "created_at": "2025-06-17 16:58:09.259+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "CA 125",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2318,
+	  "created_at": "2025-06-17 16:58:21.838+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "CA 19.9",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2319,
+	  "created_at": "2025-06-17 16:58:49.113+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Alpha Feto Protein (AFP)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2320,
+	  "created_at": "2025-06-18 13:53:11.822+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "GENEXPERT",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2321,
+	  "created_at": "2025-06-18 16:52:45.341+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Adenosine Deaminase (ADA)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2322,
+	  "created_at": "2025-06-19 02:38:51.558+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "TB / MGIT Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2323,
+	  "created_at": "2025-06-19 02:39:30.674+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Fungal Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2324,
+	  "created_at": "2025-06-19 13:23:31.256+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1600,
+	  "test_name": "Stone Analysis",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2325,
+	  "created_at": "2025-06-20 09:57:34.322+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Liver Abscess for Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2326,
+	  "created_at": "2025-06-20 09:58:09.846+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Liver Abscess For Genexpert",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2327,
+	  "created_at": "2025-06-21 09:45:17.479+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 600,
+	  "test_name": "Magnesium",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2330,
+	  "created_at": "2025-08-01 10:26:20.949988+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "formula": "",
+		  "name": "TRIGLYCERIDES ",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0-150"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0-150"
+			  }
+			]
+		  },
+		  "unit": "mg/dL",
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "iscomment": false,
+		  "suggestions": []
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "TRIGLYCERIDES",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2331,
+	  "created_at": "2025-08-01 10:26:39.668293+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Pleural Fluid Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2332,
+	  "created_at": "2025-08-01 10:26:52.776941+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Blood Culture (Anaerobic)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2333,
+	  "created_at": "2025-08-01 10:27:14.966783+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "formula": "",
+		  "name": "TOTAL CHOLESTEROL",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0-200"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0-200"
+			  }
+			]
+		  },
+		  "unit": "mg/dL",
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "iscomment": false,
+		  "suggestions": []
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "Total Cholesterol",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2334,
+	  "created_at": "2025-08-01 10:27:32.875312+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Leptospira IgG",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "NEGATIVE"
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "Leptospira IgG",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": "<p><strong>Method</strong>: Rapid Immunochromatography</p>"
+	},
+	{
+	  "id": 2335,
+	  "created_at": "2025-08-01 10:28:13.111259+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "ANA BY IFA",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2336,
+	  "created_at": "2025-08-01 10:28:34.697188+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Cholinesterase Level",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2337,
+	  "created_at": "2025-08-01 10:29:15.405035+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "URINE KETONE",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " ABSENT "
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " ABSENT"
+			  }
+			]
+		  },
+		  "unit": " ",
+		  "valueType": "text",
+		  "suggestions": []
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "URINE KETONE",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2338,
+	  "created_at": "2025-08-01 10:29:39.870959+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 900,
+	  "test_name": "CORTISOL 4 PM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2339,
+	  "created_at": "2025-08-01 10:29:56.036385+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 900,
+	  "test_name": "CORTISOL 8 AM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2340,
+	  "created_at": "2025-08-01 10:30:39.283495+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 900,
+	  "test_name": "CORTISOL RANDOM",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2341,
+	  "created_at": "2025-08-01 10:31:08.959988+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 9500,
+	  "test_name": "Beta Thalassemia - Gene Sequencing",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2342,
+	  "created_at": "2025-08-01 10:31:33.156876+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "FREE T4",
+	  "sub_heading": [],
+	  "tpa_price": 500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2343,
+	  "created_at": "2025-08-01 10:31:49.683399+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 900,
+	  "test_name": "Folic Acid",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2344,
+	  "created_at": "2025-08-01 10:33:12.442816+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Tissue for AFB Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2345,
+	  "created_at": "2025-08-01 10:33:26.557498+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "PUS for AFB Culture",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2346,
+	  "created_at": "2025-08-01 10:33:45.207058+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "CEA (Carcinoembryonic Antigen)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2347,
+	  "created_at": "2025-08-01 10:33:59.835356+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Specimen collection time",
+		  "unit": "",
+		  "valueType": "text",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Time of Examination",
+		  "unit": "",
+		  "valueType": "text",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Duration of abstinence",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "2-7"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "2-7"
+			  }
+			]
+		  },
+		  "unit": "days",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Volume",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "1.5-5.0"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "1.5-5.0"
+			  }
+			]
+		  },
+		  "unit": "ml",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Appearance",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "White"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "White"
+			  }
+			]
+		  },
+		  "unit": "",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Liquification time",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "<30"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "<30"
+			  }
+			]
+		  },
+		  "unit": "Minutes",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Viscosity",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "No hyperviscosity"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "No hyperviscosity"
+			  }
+			]
+		  },
+		  "unit": "",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "pH",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=7.5"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=7.5"
+			  }
+			]
+		  },
+		  "unit": "",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Sperm concentration",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=15"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=15"
+			  }
+			]
+		  },
+		  "unit": "million/ml",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Total sperms per ejaculate",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=39"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=39"
+			  }
+			]
+		  },
+		  "unit": "million/ejaculate",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Progressively Motile",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=32"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": ">=32"
+			  }
+			]
+		  },
+		  "unit": "%",
+		  "valueType": "number",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Non-progressively Motile",
+		  "unit": "%",
+		  "valueType": "number",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Immotile",
+		  "unit": "%",
+		  "valueType": "number",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Total-Active Motile Sperm",
+		  "unit": "million/ml",
+		  "valueType": "number",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Normal Morphology",
+		  "unit": "%",
+		  "valueType": "number",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Abnormal Morphology",
+		  "unit": "%",
+		  "valueType": "number",
+		  "range": {
+			"male": [],
+			"female": []
+		  },
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Premature Sperm",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "Present"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "Present"
+			  }
+			]
+		  },
+		  "unit": "/hpf",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Red Cells",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "Absent"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "unit": "/hpf",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Auto-Agglutination",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "Absent"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "Absent"
+			  }
+			]
+		  },
+		  "unit": "",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Fructose",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "POSITIVE"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "POSITIVE"
+			  }
+			]
+		  },
+		  "unit": "",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Pus cells",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "0-5"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "0-5"
+			  }
+			]
+		  },
+		  "unit": "/hpf",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Epithelial Cells",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "0-2"
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "",
+				"rangeValue": "0-2"
+			  }
+			]
+		  },
+		  "unit": "/hpf",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Remark",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "unit": " ",
+		  "valueType": "text",
+		  "suggestions": []
+		},
+		{
+		  "defaultValue": "",
+		  "formula": "",
+		  "iscomment": false,
+		  "name": "Comment & Suggestion ",
+		  "range": {
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "unit": " ",
+		  "valueType": "text",
+		  "suggestions": []
+		}
+	  ],
+	  "price": 200,
+	  "test_name": "Semen Analysis - Seminogram",
+	  "sub_heading": [
+		{
+		  "title": "Physical Examination",
+		  "parameterNames": [
+			"Volume",
+			"Appearance",
+			"Liquification time"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Sperm Count",
+		  "parameterNames": [
+			"Sperm concentration",
+			"Total sperms per ejaculate"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Motility",
+		  "parameterNames": [
+			"Progressively Motile",
+			"Non-progressively Motile",
+			"Immotile",
+			"Total-Active Motile Sperm"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Morphology",
+		  "parameterNames": [
+			"Normal Morphology",
+			"Abnormal Morphology"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Other Findings",
+		  "parameterNames": [
+			"Premature Sperm",
+			"Red Cells",
+			"Auto-Agglutination"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Chemical Test",
+		  "parameterNames": [
+			"Fructose"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Microscopy",
+		  "parameterNames": [
+			"Pus cells",
+			"Epithelial Cells"
+		  ],
+		  "is100": false
+		},
+		{
+		  "title": "Pathologist Remark",
+		  "parameterNames": [
+			"Remark",
+			"Comment & Suggestion "
+		  ],
+		  "is100": false
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2348,
+	  "created_at": "2025-08-01 13:30:08.352337+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Fluid LDH",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2349,
+	  "created_at": "2025-08-01 13:30:28.008405+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "Pleural Fluid AFB",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2350,
+	  "created_at": "2025-08-03 04:37:41.14918+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 500,
+	  "test_name": "Urine for Sodium",
+	  "sub_heading": [],
+	  "tpa_price": 800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2351,
+	  "created_at": "2025-08-04 15:05:49.787223+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 3000,
+	  "test_name": "Fecal Calprotectin",
+	  "sub_heading": [],
+	  "tpa_price": 4500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2352,
+	  "created_at": "2025-08-05 04:32:28.818661+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 950,
+	  "test_name": "PSA Total",
+	  "sub_heading": [],
+	  "tpa_price": 1500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2353,
+	  "created_at": "2025-08-05 04:32:48.743957+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "PSA Free",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2354,
+	  "created_at": "2025-08-05 13:40:47.137525+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Hemoglobin",
+		  "unit": "Normal",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "suggestions": [],
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 100,
+	  "test_name": "LABORATORY INVESTIGATION",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2355,
+	  "created_at": "2025-08-06 10:21:23.804888+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Fibrinogen",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2356,
+	  "created_at": "2025-08-06 14:21:53.894231+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "Bicarbonate (HCO3)",
+		  "unit": "mmol/L",
+		  "valueType": "number",
+		  "formula": "",
+		  "iscomment": false,
+		  "suggestions": [],
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "22-29"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "22-29"
+			  }
+			]
+		  },
+		  "defaultValue": ""
+		},
+		{
+		  "name": "Remark ",
+		  "unit": " ",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "suggestions": [],
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 1000,
+	  "test_name": "Bicarbonate (HCO3)",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2357,
+	  "created_at": "2025-08-08 10:50:27.975245+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2600,
+	  "test_name": "Aldosterone",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2358,
+	  "created_at": "2025-08-12 09:10:48.028301+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 950,
+	  "test_name": "Complement 3 (C3)",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2359,
+	  "created_at": "2025-08-12 09:11:14.452832+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 950,
+	  "test_name": "Complement 4 (C4)",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2360,
+	  "created_at": "2025-08-12 09:12:26.94393+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Anti DS DNA",
+	  "sub_heading": [],
+	  "tpa_price": 2500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2361,
+	  "created_at": "2025-08-12 12:53:35.033653+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 4000,
+	  "test_name": "1st Line LPA",
+	  "sub_heading": [],
+	  "tpa_price": 6000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2362,
+	  "created_at": "2025-08-12 12:54:02.238813+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 7000,
+	  "test_name": "2nd Line LPA",
+	  "sub_heading": [],
+	  "tpa_price": 9500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2363,
+	  "created_at": "2025-08-14 07:06:08.237987+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "24 HRS Urine Protein",
+	  "sub_heading": [],
+	  "tpa_price": 1200,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2364,
+	  "created_at": "2025-08-14 11:04:23.290845+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Catheter Tip Culture",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2365,
+	  "created_at": "2025-08-14 11:05:04.245341+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "HBEAG",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2366,
+	  "created_at": "2025-08-14 11:05:25.734752+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "Anti HBE Antibody",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2367,
+	  "created_at": "2025-08-14 11:32:50.584849+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "RA Factor Quantitative",
+		  "unit": "IU/ml",
+		  "valueType": "text",
+		  "formula": "",
+		  "iscomment": false,
+		  "suggestions": [],
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0-20"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "0-20"
+			  }
+			]
+		  },
+		  "defaultValue": ""
+		}
+	  ],
+	  "price": 600,
+	  "test_name": "RA Factor Quantitative",
+	  "sub_heading": [],
+	  "tpa_price": 1000,
+	  "interpretation": "Method: (Serum, Latex-Turbidometry)\n\nINTERPRETATION:\n\nThe detection of rheumatoid factor (RF) is one of the criteria of the American Rheumatism Association (ARA) for the diagnosis of Rheumatoid Arthritis (RA).\n\nRA Test plays an important role in the differential diagnosis between RA and other rheumatic diseases. They also permit prognostic statements with regards to RA."
+	},
+	{
+	  "id": 2368,
+	  "created_at": "2025-08-16 02:08:43.862718+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Direct Coombs Test (DCT)",
+	  "sub_heading": [],
+	  "tpa_price": 1200,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2369,
+	  "created_at": "2025-08-16 02:09:23.527701+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 750,
+	  "test_name": "Indirect Coombs Test (ICT)",
+	  "sub_heading": [],
+	  "tpa_price": 1200,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2370,
+	  "created_at": "2025-08-28 12:48:43.008607+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Vaginal Swab Culture",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2371,
+	  "created_at": "2025-08-28 12:49:29.691341+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2500,
+	  "test_name": "Lymph Node for Genexpert",
+	  "sub_heading": [],
+	  "tpa_price": 4500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2372,
+	  "created_at": "2025-08-28 12:50:21.020594+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1500,
+	  "test_name": "Lymph Node for AFB Culture",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2373,
+	  "created_at": "2025-08-28 12:51:12.340947+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2000,
+	  "test_name": "Antifungal Sensitivity Test",
+	  "sub_heading": [],
+	  "tpa_price": 3000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2374,
+	  "created_at": "2025-08-29 16:45:37.131034+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 4500,
+	  "test_name": "Viral Flu Panel",
+	  "sub_heading": [],
+	  "tpa_price": 6000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2375,
+	  "created_at": "2025-08-30 16:05:58.763746+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Tracheal Secretion Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2376,
+	  "created_at": "2025-09-01 10:41:13.68677+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 500,
+	  "test_name": "Colistin Sensitivity Test",
+	  "sub_heading": [],
+	  "tpa_price": 800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2377,
+	  "created_at": "2025-09-04 05:38:49.454025+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 5800,
+	  "test_name": "Galactomanan Serum",
+	  "sub_heading": [],
+	  "tpa_price": 7000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2378,
+	  "created_at": "2025-09-08 08:18:58.893675+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "PUS ROUTINE & MICROSCOPY",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2379,
+	  "created_at": "2025-09-09 15:23:50.03013+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "SEMEN CULTURE AND SENSITIVITY",
+	  "sub_heading": [],
+	  "tpa_price": 1800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2380,
+	  "created_at": "2025-09-10 13:04:00.913322+00",
+	  "outsource": false,
+	  "parameter": [
+		{
+		  "name": "PH",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "7.2 to 7.6"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "7.2 to 7.6"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "PCO2",
+		  "unit": "mmHg",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "30 to 50"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "30 to 50"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "PO2",
+		  "unit": "mmHg",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "80 - 100"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "80 - 100"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "BASE EXCESS (BE)",
+		  "unit": "mmol/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "TOTAL CO2 (TCO2)",
+		  "unit": "mmol/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": ""
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "ACTUAL BICARBONATE (HCO3)",
+		  "unit": "mmol/L",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "22 - 26"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "22 - 26"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "TOTAL HEMOGLOBIN (THB)",
+		  "unit": "",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "12 to 17"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "12 to 17"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "HB OXYGEN SATURATION (SO2)",
+		  "unit": "%",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "90 to 100"
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "1-150y",
+				"rangeValue": "90 to 100"
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "number",
+		  "defaultValue": "",
+		  "suggestions": []
+		},
+		{
+		  "name": "Remark: ",
+		  "unit": " ",
+		  "range": {
+			"male": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			],
+			"female": [
+			  {
+				"rangeKey": "0-150y",
+				"rangeValue": " "
+			  }
+			]
+		  },
+		  "formula": "",
+		  "iscomment": false,
+		  "valueType": "text",
+		  "defaultValue": "",
+		  "suggestions": []
+		}
+	  ],
+	  "price": 1200,
+	  "test_name": "VENOUS BLOOD GAS (VBG)",
+	  "sub_heading": [
+		{
+		  "title": "HEMOGLOBIN / OXYGEN STATUS",
+		  "parameterNames": [
+			"TOTAL HEMOGLOBIN (THB)",
+			"HB OXYGEN SATURATION (SO2)",
+			"Remark: "
+		  ],
+		  "is100": false
+		}
+	  ],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2381,
+	  "created_at": "2025-09-15 04:35:25.860662+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 8000,
+	  "test_name": "NMO with MOG Antibody Profile",
+	  "sub_heading": [],
+	  "tpa_price": 10000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2382,
+	  "created_at": "2025-09-16 13:16:15.917449+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "FREE T3",
+	  "sub_heading": [],
+	  "tpa_price": 500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2383,
+	  "created_at": "2025-09-16 16:52:09.107302+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 8500,
+	  "test_name": "Histopathology With IHC Marker (Metropolis)",
+	  "sub_heading": [],
+	  "tpa_price": "",
+	  "interpretation": ""
+	},
+	{
+	  "id": 2384,
+	  "created_at": "2025-09-19 10:48:15.73425+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 700,
+	  "test_name": "HIV ELISA",
+	  "sub_heading": [],
+	  "tpa_price": 1000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2385,
+	  "created_at": "2025-09-19 10:49:08.752629+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 500,
+	  "test_name": "HBsAg ELISA",
+	  "sub_heading": [],
+	  "tpa_price": 800,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2386,
+	  "created_at": "2025-09-19 10:50:14.66763+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1000,
+	  "test_name": "HCV ELISA",
+	  "sub_heading": [],
+	  "tpa_price": 1400,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2387,
+	  "created_at": "2025-09-21 05:40:39.090097+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 1200,
+	  "test_name": "Wound Swab Culture & Sensitivity",
+	  "sub_heading": [],
+	  "tpa_price": 2000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2388,
+	  "created_at": "2025-09-22 13:46:32.978531+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 2800,
+	  "test_name": "Triple Marker Test",
+	  "sub_heading": [],
+	  "tpa_price": 4000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2389,
+	  "created_at": "2025-09-25 11:08:30.077512+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 350,
+	  "test_name": "Stool for Hanging Drop",
+	  "sub_heading": [],
+	  "tpa_price": 600,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2390,
+	  "created_at": "2025-09-26 12:58:08.387705+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 3500,
+	  "test_name": "Stool For Clostridium Difficile Toxin A&B",
+	  "sub_heading": [],
+	  "tpa_price": 5000,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2391,
+	  "created_at": "2025-10-07 16:59:30.208945+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 300,
+	  "test_name": "Fluid Albumin",
+	  "sub_heading": [],
+	  "tpa_price": 500,
+	  "interpretation": ""
+	},
+	{
+	  "id": 2392,
+	  "created_at": "2025-10-10 10:09:49.605678+00",
+	  "outsource": true,
+	  "parameter": [],
+	  "price": 850,
+	  "test_name": "TPHA Test",
+	  "sub_heading": [],
+	  "tpa_price": 1200,
+	  "interpretation": ""
+	}
+  ]
